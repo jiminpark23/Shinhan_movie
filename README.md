@@ -1,4 +1,5 @@
 # my-movie
+신한 프론트엔드 Vue 실습
 
 ## Project setup
 ```
